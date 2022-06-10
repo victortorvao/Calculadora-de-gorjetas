@@ -1,5 +1,5 @@
- Projeto criado utilizando html/css/java 
- Calculadora de Gorjetas
+ Projeto criado utilizando html/css/java -
+ Chamado Calculadora de Gorjetas -
  Desenvolvido afim de analisar o atendimento 
  e recompensar o garçom mediante ao seu atendimento.
 
