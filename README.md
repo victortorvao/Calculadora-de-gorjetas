@@ -10,8 +10,7 @@ Porcentagem - Qualidade do Atendimento
  10% - Ruim
  5% -  Péssimo
 
-<<<<<<< HEAD
+
+
  Victor "Torvão" Santiago
 =======
- Victor "Torvão" Santiago
->>>>>>> b65caee58f457d57210ca36b1a8a10eb65f384ad
